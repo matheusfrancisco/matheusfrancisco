@@ -12,5 +12,7 @@ I love study about paradigms, design principals, software architecture and good 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Typescript and Python.
+- 🔭 I’m currently working on [Gupy](https://tech-career.gupy.io/).
+- 🔭 I’m love code with: Python, Clojure, Typescript.
 - 🌱 I’m currently learning IA, Clojure, Software Architecture, .
+- 🌱 I'm also streaming about tech on [Xico-labs](https://www.twitch.tv/xicolabs) .
