@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Francisco (Xico)</h1>
 <h3 align="center">A Software Engineer who loves programming in multiple languages. Also a nice guy who loves learning new paradigms and always trying to contribute with open source community</h3>
 
-- 🔭 I’m currently working on with Clojure at [@Buzzlabs](https://github.com/Buzzlabs)
+- 🔭 I’m currently working with Clojure at [@Buzzlabs](https://github.com/Buzzlabs)
 
 - 🌱 I’m currently learning **Clojure, Software Architecture, Design Principles and Patterns**
 
