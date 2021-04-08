@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusfrancisco" alt="matheusfrancisco" /></a> </p>
 
-- 🔭 I’m currently working with **Clojure, ClojureScript, Golang, Datomic at @Buzzlabs**
+- 🔭 I’m currently working  with **Clojure, at @Nubank**
 
-- 🌱 I’m currently learning **Software Architecture, Design Principles and Patterns, Clojure, Golang, ClojureScript**
+- 🌱 I’m currently learning **Software Architecture, Design Principles and Patterns, Clojure, Flutter, Kafka, Graphql, Datomic, ClojureScript**
 
 - 📝 I regulary write articles on [matheusfrancisco.com.br/blog](matheusfrancisco.com.br/blog)
 
