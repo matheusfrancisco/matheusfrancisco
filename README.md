@@ -5,10 +5,10 @@ Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href
  ### Pesonal stuff:
 
 * :computer: I am a software engineer with focus in backend and try to learning  a litter bit about devops and frontend.
-* 🔭 I’m currently working  at @Nubank
+* 🔭 I’m currently working  at @Dinerama
 
-- 🌱 I’m interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Clojure, Flutter, Kafka, Graphql, Datomic, ClojureScript** the whole clojure world, but I'm starting study: machine learning, neural network, genetic algorithms.
-- 📝 I regulary write articles on [matheusfrancisco.com.br/blog](matheusfrancisco.com.br/blog)
+- 🌱 I’m interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Rust, Clojure, Flutter, Kafka, Graphql, Datomic, ClojureScript** the whole clojure world, but I'm starting study: machine learning, neural network, genetic algorithms.
+- 📝 I regulary write articles on [https://blog.matheusfrancisco.com.br](https://blog.matheusfrancisco.com.br)
 - 📫 How to reach me, you can send me a email if you want to:  matheusmachadoufsc@gmail.com 
 
 <h3 align="left">Where to find me:</h3>
@@ -22,7 +22,7 @@ Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href
 
 ### Current Stack: :computer:
 
-* Programming: Clojure , Dart on Flutter, ClojureScript
+* Programming: Rust, Clojure , Dart on Flutter, ClojureScript
 * Server Technologies: GraphQL, Rest, Kafka
 * Mobile: Flutter
 * Infra: Docker, Kubernetes, Aws, Git, Prometheus, Grafana, CI (Github Actions, CircleCI)
@@ -31,7 +31,7 @@ Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href
 
 ### Have worked with : 
 
-* Language that I had put code in production:  Python, Javascript, ReactJS, Clojure, ClojureScript, Typescript, Go
+* Language that I had put code in production: Python, Javascript, ReactJS (Mobile React Native), Clojure, ClojureScript, Typescript, Go
 * Programming that I had code some applications: C/C++, Java,
 * Front-end: ReactJS, Redux, WASM, HTML, CSS
 * Server Technologies: gRPC
@@ -40,8 +40,8 @@ Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href
 * Agile practices: Extreme Programming
 * Mobile: React Native
 
-### What I want to learn:
+### What I'm learning:
 
-* Programming: Rust, Elixir, Haskell, Scheme, Common-Lisp
+* Programming: Rust, Common-Lisp
 * Server Techonologies: gRPC, RPC.
-* Topics: Algorithms, Dynamic Programming, NP-complete problems, Data Structures, (Improve TDD and type of tests)
+* Topics: Algorithms, Dynamic Programming, NP-complete problems, Data Structures, Software Architecture
