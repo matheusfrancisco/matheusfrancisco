@@ -22,7 +22,7 @@ Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href
 
 ### Current Stack: :computer:
 
-* Programming: Rust, Clojure , Dart on Flutter, ClojureScript
+* Programming: Rust, Clojure , Dart on Flutter, ClojureScript, Kotlin
 * Server Technologies: GraphQL, Rest, Kafka
 * Mobile: Flutter
 * Infra: Docker, Kubernetes, Aws, Git, Prometheus, Grafana, CI (Github Actions, CircleCI)
@@ -42,6 +42,6 @@ Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href
 
 ### What I'm learning:
 
-* Programming: Rust, Common-Lisp
+* Programming: Rust, Common-Lisp, Kotlin
 * Server Techonologies: gRPC, RPC.
-* Topics: Algorithms, Dynamic Programming, NP-complete problems, Data Structures, Software Architecture
+* Topics: Algorithms, Dynamic Programming, NP-complete problems, Data Structures, Software Architecture, Compilers
