@@ -8,7 +8,7 @@ Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href
 * 🔭 I’m currently working  at @Dinerama
 
 - 🌱 I’m interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Rust, Clojure, Flutter, Kafka, Graphql, Datomic, ClojureScript** the whole clojure world, but I'm starting study: machine learning, neural network, genetic algorithms.
-- 📝 I regulary write articles on [https://blog.matheusfrancisco.com.br](https://blog.matheusfrancisco.com.br)
+- 📝 I regulary write articles on [https://matheusfrancisco.com.br](https://blog.matheusfrancisco.com.br)
 - 📫 How to reach me, you can send me a email if you want to:  matheusmachadoufsc@gmail.com 
 
 <h3 align="left">Where to find me:</h3>
