@@ -5,7 +5,7 @@ Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href
  ### Pesonal stuff:
 
 * :computer: I am a software engineer with focus in backend and try to learning  a litter bit about devops and frontend.
-* 🔭 I’m currently working  at @Dinerama
+* 🔭 I’m currently working  at @Nubank
 
 - 🌱 I’m interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Rust, Clojure, Flutter, Kafka, Graphql, Datomic, ClojureScript** the whole clojure world, but I'm starting study: machine learning, neural network, genetic algorithms.
 - 📝 I regulary write articles on [https://www.matheusfrancisco.com.br](https://matheusfrancisco.com.br)
