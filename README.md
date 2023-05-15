@@ -42,6 +42,6 @@ Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href
 
 ### What I'm learning:
 
-* Programming: Rust, Common-Lisp, Kotlin
+* Programming: Rust, Common-Lisp, Zig, Cpp
 * Server Techonologies: gRPC, RPC.
 * Topics: Algorithms, Dynamic Programming, NP-complete problems, Data Structures, Software Architecture, Compilers
