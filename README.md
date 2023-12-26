@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus Francisco (Xico)</h1>
+<h1 align="center">Hi 👋, I'm Matheus Francisco (Chico)</h1>
 
 Hi There! :wave: I would say that currently I'm in love with **Clojure** <a href="https://clojure.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> and the whole Clojure ecosistem, but still like python  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> a lot, (first love).  I love learning about computer science and algorithms, new paradigms  and stuffs like that. I've been trying to contribute with the open source community. 
 
