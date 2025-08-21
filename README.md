@@ -3,7 +3,7 @@
 Hi There! 👋.
 I'm computer engineer doing a master degree in computer science at UFSC, studying distributed systems.
 
-* 🔭 I’m currently working  at @Nubank
+* 🔭 I’m currently working  at [@hoophq](github.com/hoophq)
 
 - 🌱 I’m currently studying about: 
     - **Distributed Systems**
