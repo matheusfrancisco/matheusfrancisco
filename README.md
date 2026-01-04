@@ -13,8 +13,9 @@ I'm computer engineer doing a master degree in computer science at UFSC, studyin
     - **Data structure**
 - 🌱 Programming languages I'm studying: 
     - **Rust**
+    - **Zig**
+    - **Go**
     - **Clojure**
-    - **Haskell**
 
 - 📫 How to reach me, you can send me a email if you want to:  matheusmachadoufsc@gmail.com 
 
