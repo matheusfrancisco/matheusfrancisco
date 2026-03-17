@@ -17,7 +17,7 @@ I'm computer engineer doing a master degree in computer science at UFSC, studyin
     - **Go**
     - **Clojure**
 
-- 📫 How to reach me, you can send me a email if you want to:  matheusmachadoufsc@gmail.com 
+- 📫 How to reach me, you can send me a email if you want to:  chico@matheusfrancisco.com.br
 
 
 <h3 align="left">Where to find me:</h3>
