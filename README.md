@@ -18,9 +18,3 @@ I'm computer engineer doing a master degree in computer science at UFSC, studyin
     - **Clojure**
 
 - 📫 How to reach me, you can send me a email if you want to:  chico@matheusfrancisco.com.br
-
-
-<h3 align="left">Where to find me:</h3>
-<p align="left">
-<a href="https://twitter.com/mtchicao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mtchicao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-francisco/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/matheus-francisco" height="30" width="40" /></a>
